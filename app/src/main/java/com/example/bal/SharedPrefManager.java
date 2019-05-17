@@ -43,9 +43,7 @@ public class SharedPrefManager {
         return sp.getString(SP_NAMA,"");
     }
 
-    public String getKeyEmail() {
-        return sp.getString(SP_EMAIL,"");
-    }
+
 
     public boolean Login(){
         return sp.getBoolean(SP_SUDAH_LOGIN, false);
