@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Bal-Bal an Apps</string>
+    <string name="macth">Match</string>
+    <string name="macthes">Macthes</string>
+    <string name="profile">Profile</string>
+    <string name="team">Team</string>
+    <string name="nama">Masukkan Nama</string>
+    <string name="email">Masukkan E-mail</string>
+    <string name="login">Log in</string>
+</resources>
