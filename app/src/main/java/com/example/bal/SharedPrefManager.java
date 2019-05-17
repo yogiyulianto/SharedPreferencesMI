@@ -35,7 +35,6 @@ public class SharedPrefManager {
 
     public void clearKEY(){
         editor.remove(getKeyNama())
-                .remove(getKeyEmail())
                 .apply();
     }
 
